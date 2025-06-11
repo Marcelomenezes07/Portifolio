@@ -7,7 +7,7 @@ html, body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-  background: url('fotos/fundo.avif') center/cover no-repeat fixed;
+  background: url('fotos/fundo.avif.jpg') center/cover no-repeat fixed;
   color: beige;
   font-family: sans-serif;
   box-sizing: border-box;

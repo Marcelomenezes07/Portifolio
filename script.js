@@ -14,5 +14,5 @@ function navigate(pageId) {
 
 // Mostra a página "home" ao carregar o site
 window.onload = function () {
-  navigate('contato');
+  navigate('home');
 };
